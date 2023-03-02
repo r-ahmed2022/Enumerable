@@ -174,7 +174,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Daron976/React-group-project/issues).
+Feel free to check the [issues page](https://github.com/r-ahmed2022/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,9 +182,8 @@ Feel free to check the [issues page](https://github.com/Daron976/React-group-pro
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project then do share this project with your friends and don't forget to give a ⭐ star on it"
 
-Feel free to give it a start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
