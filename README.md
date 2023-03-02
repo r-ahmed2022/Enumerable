@@ -57,10 +57,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Html & CSS basics
-- JS basics
+
 - Broad Understanding of Ruby
-- Broad Understanding of Redux
 - Git & github
 
 <!--
