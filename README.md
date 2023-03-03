@@ -36,10 +36,14 @@ To further learn and understand ruby, in this project we learned how to use a mo
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+- **Create your own Enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+#### 🔭 Future Features <a name="future-features"></a>
+
+- **Create More Complex Enumerables**
+- **Enumerable Generator**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -48,6 +52,7 @@ To further learn and understand ruby, in this project we learned how to use a mo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
