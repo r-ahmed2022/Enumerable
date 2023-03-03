@@ -1,5 +1,4 @@
 require_relative './main'
-
 class MyList
   include MyEnumerable
   def initialize(*list)
@@ -24,3 +23,4 @@ puts(list.any? { |e| e == 2 }) #=> true
 puts(list.any? { |e| e == 5 }) #=> false
 
 print(list.filter(&:even?)) #=> [2, 4]
+
