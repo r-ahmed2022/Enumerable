@@ -1,22 +1,22 @@
 module MyEnumerable
   def all?
-    @list.each do |element|
-      return false unless yield element
+    @list.each do |item|
+      return false unless yield item
     end
     true
   end
 
   def any?
-    @list.each do |element|
-      return true if yield element
+    @list.each do |item|
+      return true if yield item
     end
     false
   end
 
   def filter
     result = []
-    @list.each do |element|
-      result << element if yield element
+    @list.each do |item|
+      result << item if yield item
     end
     result
   end
